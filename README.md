@@ -24,10 +24,3 @@ This MIPS assembly program analyzes a given Shakespearean dialogue to find and c
 ## Output
 - A list of unique words containing the target string, each on a new line
 - The count of unique words found
-
-
-## Author
-Troy Allen
-
-## Course
-CDA 3100
