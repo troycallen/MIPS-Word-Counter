@@ -1,4 +1,4 @@
-# Shakespeare Word Counter
+# Word Counter
 
 This MIPS program analyzes a given dialogue to find and count words containing a specific target string.
 
